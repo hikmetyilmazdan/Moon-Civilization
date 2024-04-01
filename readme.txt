@@ -1,1 +1,1 @@
-Download V3 and run index.html
+Download V3 and open index.html
