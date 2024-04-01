@@ -1,1 +1,1 @@
-Download the latest version (latest version = V(largest number))
+Download V3 and run index.html
